@@ -2,7 +2,6 @@ import {
    Box,
    Button,
    LinearProgress,
-   SvgIcon,
    Typography,
    linearProgressClasses,
    styled,

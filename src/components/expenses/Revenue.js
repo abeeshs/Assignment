@@ -1,4 +1,4 @@
-import { Avatar, Box, Typography, styled } from "@mui/material";
+import { Box, Typography, styled } from "@mui/material";
 import React from "react";
 import DeleteIcon from "@mui/icons-material/Delete";
 import data from "../../utils/constants";
